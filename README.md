@@ -6,7 +6,10 @@ We chose text processing, because it is fast to compute and easy to understand, 
 Our main goal was to get a first impression of the powers of Deep Learning.  
 Also, we were curious to see **How Machines Think**.
 
-Interested? See here our [GitHub Repo](https://github.com/telecombcn-dl/2017-dlai-team8) and our [Slides](https://github.com/telecombcn-dl/2017-dlai-team8).
+Interested? See here our [GitHub Repo](https://github.com/telecombcn-dl/2017-dlai-team8) and our [Slides](https://github.com/telecombcn-dl/2017-dlai-team8/blob/master/Creative%20Writing%20101.pdf).
+
+Our project is divided in Steps.
+The first step was to work on the text letter-by-letter. See the sourcecode [here](https://github.com/telecombcn-dl/2017-dlai-team8/blob/master/char_rnn.ipynb)
 
 
 
