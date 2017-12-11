@@ -1,3 +1,15 @@
+## Introduction
+Welcome. We are T. Suchomel and S. Gamer, Team 8 of DLAI class at UPC Telecom BCN (Autumn 2017).
+We are newbies in Deep Learning and this is our first project.
+We chose text processing, because it is fast to compute and easy to understand, for us and for machines.
+Our main goal was to get a first impression of the powers of Deep Learning. 
+Also, we were curious to see **How Machines Think**.
+
+Interested? See here our [GitHub Repo](https://github.com/telecombcn-dl/2017-dlai-team8) and our [Slides](https://github.com/telecombcn-dl/2017-dlai-team8).
+
+
+
+<!---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/telecombcn-dl/2017-dlai-team8/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +47,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--->
