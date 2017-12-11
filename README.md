@@ -1,6 +1,7 @@
 ## Introduction
-Welcome. We are T. Suchomel and S. Gamer, Team 8 of DLAI class at UPC Telecom BCN (Autumn 2017).
-We are newbies in Deep Learning and this is our first project.
+Welcome :-) 
+We are T. Suchomel and S. Gamer, Team 8 of DLAI class at UPC Telecom BCN (Autumn 2017).
+We are novices in Deep Learning and this is our first project.
 We chose text processing, because it is fast to compute and easy to understand, for us and for machines.
 Our main goal was to get a first impression of the powers of Deep Learning. 
 Also, we were curious to see **How Machines Think**.
