@@ -8,8 +8,10 @@ Also, we were curious to see **How Machines Think**.
 
 Interested? See here our [GitHub Repo](https://github.com/telecombcn-dl/2017-dlai-team8) and our [Slides](https://github.com/telecombcn-dl/2017-dlai-team8/blob/master/Creative%20Writing%20101.pdf).
 
-Our project is divided in Steps.
-The first step was to work on the text letter-by-letter. See the sourcecode [here](https://github.com/telecombcn-dl/2017-dlai-team8/blob/master/char_rnn.ipynb)
+Our project is divided in Steps.  
+The first step was to work on the text letter-by-letter. See the sourcecode [here](https://github.com/telecombcn-dl/2017-dlai-team8/blob/master/char_rnn.ipynb)  
+The second step was to encode words as integers. See the sourcecode [here](https://github.com/telecombcn-dl/2017-dlai-team8/blob/master/word_rnn.ipynb)  
+The next step will most likely be the implementation of word2vec. Stay tuned!
 
 
 
